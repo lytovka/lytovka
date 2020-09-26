@@ -18,7 +18,6 @@
   </a> 
 </div>
 
-#
 
 - 📫 How to reach me:
 
