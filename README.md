@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on delivering new features to <a href="https://homex.com">homex.com</a>. My tech stack includes, but not limited to:
 
-<div style="text-align: center">
+<p align="center">
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/-Typescript-blue" alt="TypeScript">
   </a>
@@ -15,12 +15,12 @@
   <a href="https://styled-components.com/">
     <img src="https://img.shields.io/badge/-Styled-brightgreen" alt="Styled">
   </a> 
-</div>
+</p>
 
 
 - 📫 How to reach me:
 
-<div style="text-align: center"> 
+<p align="center"> 
   <a href="https://www.linkedin.com/in/ivanlytovka/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn">
   </a>
@@ -30,7 +30,7 @@
   <a href="https://t.me/lytovka">
     <img src="https://img.shields.io/badge/-Telegram-blue" alt="Telegram">
   </a>
-</div>
+</p>
 <!--
 **lytovka/lytovka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
