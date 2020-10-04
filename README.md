@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/ivanlytovka/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn">
   </a>
-  <a href="href=mailto:ivanlytovka@gmail.com">
+  <a href="mailto:ivanlytovka@gmail.com">
     <img src="https://img.shields.io/badge/-Email-gray" alt="Email">
   </a>
   <a href="https://t.me/lytovka">
