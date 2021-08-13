@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! My name is Ivan, and I'm a <del>designer</del> front-end developer 🌝 💻</h1>
+<h1 align="center">Hi there! My name is Ivan, and I'm software developer 🌝 💻</h1>
 
 - 🔭 I’m currently working on delivering new features to <a href="https://homex.com">homex.com</a>. My tech stack includes, but not limited to:
 
