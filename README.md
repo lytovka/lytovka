@@ -1,34 +1,23 @@
-<h1 align="center">Hi there! My name is Ivan, and I'm software developer 🌝 💻</h1>
+<h1>Hi, I'm Ivan! 👋</h1>
+<h3>Software engineer at <a href="https://www.usepower.com/">Power Finance</a>. Formerly <a href="https://homex.com/">HomeX</a> 🌝 💻</h3>
 
-- 🔭 I’m currently working on delivering new features to <a href="https://homex.com">homex.com</a>. My tech stack includes, but not limited to:
+Tech stack:
+<ul>
+  <li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
+  <li><a href="https://nextjs.org/">Next.js</a></li>  
+  <li><a href="https://www.rust-lang.org/">Rust</a></li> 
+</ul>
 
-<p align="center">
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/-Typescript-blue" alt="TypeScript">
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/-React-61dafb" alt="React">
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/NextJS-black.svg?style=flat-square" alt="NextJS">
-  </a>  
-  <a href="https://styled-components.com/">
-    <img src="https://img.shields.io/badge/-Styled-brightgreen" alt="Styled">
-  </a> 
-</p>
-
-
-- 📫 How to reach me:
-
-<p align="center"> 
+<p>How to reach me:</p>
+<p> 
   <a href="https://www.linkedin.com/in/ivanlytovka/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ivanlytovka@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-gray" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://t.me/lytovka">
-    <img src="https://img.shields.io/badge/-Telegram-blue" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-464646?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
 <!--
