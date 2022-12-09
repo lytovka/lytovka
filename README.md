@@ -1,11 +1,13 @@
-<h1>Hi, I'm Ivan! 👋</h1>
+<h1>Hi, I'm Ivan 👋</h1>
 <h3>Software engineer at <a href="https://www.usepower.com/">Power Finance</a>. Formerly <a href="https://homex.com/">HomeX</a> 🌝 💻</h3>
 
-Tech stack:
+Technical skills:
 <ul>
-  <li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
-  <li><a href="https://nextjs.org/">Next.js</a></li>  
-  <li><a href="https://www.rust-lang.org/">Rust</a></li> 
+  <li>Languages: TypeScript, JavaScript, CSS, HTML, Kotlin, Java, SQL, Rust.</li>
+  <li>Front-end: React, Next.js, Remix, tailwindcss, Styled Components, MUI.</li>
+  <li>Back-end: Spring Boot.</li>
+  <li>Other: git, GitHub (it goes without saying), VSCode, IntelliJ IDEA.    
+  
 </ul>
 
 <p>How to reach me:</p>
@@ -20,16 +22,3 @@ Tech stack:
     <img src="https://img.shields.io/badge/Telegram-464646?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
-<!--
-**lytovka/lytovka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
