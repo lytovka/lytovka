@@ -1,12 +1,12 @@
 <h1>Hi, I'm Ivan 👋</h1>
-<h3>Software engineer at <a href="https://www.usepower.com/">Power Finance</a>. Formerly <a href="https://homex.com/">HomeX</a> 🌝 💻</h3>
+<h3>Software Engineer at <a href="https://www.marqeta.com/">Marqeta</a>. Formerly, <a href="https://www.usepower.com/">Power Finance</a> & <a href="https://homex.com/">HomeX</a> 🌝 💻</h3>
 
 Technical skills:
 <ul>
   <li>Languages: TypeScript, JavaScript, CSS, HTML, Kotlin, Java, SQL, Rust.</li>
   <li>Front-end: React, Next.js, Remix, tailwindcss, Styled Components, MUI.</li>
-  <li>Back-end: Spring Boot.</li>
-  <li>Other: git, GitHub (it goes without saying), VSCode, IntelliJ IDEA.    
+  <li>Back-end: Spring, Spring Boot.</li>
+  <li>Other: git, GitHub (it goes without saying), VS Code, IntelliJ IDEA.    
   
 </ul>
 
